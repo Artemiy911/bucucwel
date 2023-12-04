@@ -1,0 +1,27 @@
+.bacacwel {
+    color: blueviolet;
+}
+
+h1:hover {
+    color: blue;
+}
+
+h1 {
+
+    text-align: center;
+}
+
+ul,ol {
+text-decoration: none;
+text-transform: none;
+margin:0;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+img {
+    text-align: center;
+}
